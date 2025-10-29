@@ -1,0 +1,27 @@
+{
+  "name": "weather_forecast_test_tormi-laane_mel-kosk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tormipoiss/Weather_forecast_test_Tormi-Laane_Mel-Kosk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tormipoiss/Weather_forecast_test_Tormi-Laane_Mel-Kosk/issues"
+  },
+  "homepage": "https://github.com/tormipoiss/Weather_forecast_test_Tormi-Laane_Mel-Kosk#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "eslint": "^9.38.0"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
